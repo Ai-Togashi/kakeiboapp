@@ -214,7 +214,7 @@ npm run format
 
 ##  作者
 
-** GitHub: [冨樫あい](https://github.com/Ai-Togashi)）**  
+** (GitHub: [冨樫あい](https://github.com/Ai-Togashi)) **  
 Webエンジニア志望 / フルスタック開発者  
 フロントエンド・バックエンド・インフラまで幅広く学習・実践中です。  
 お気軽にフォロー・コラボ・フィードバックください！
