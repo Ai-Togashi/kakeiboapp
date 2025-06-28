@@ -1,0 +1,80 @@
+# -----------------------
+# Node.js
+# -----------------------
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# -----------------------
+# Next.js
+# -----------------------
+.next/
+out/
+
+# -----------------------
+# TypeScript
+# -----------------------
+*.tsbuildinfo
+
+# -----------------------
+# dotenv（環境変数）
+# -----------------------
+.env*
+!.env.example
+
+# -----------------------
+# Logs
+# -----------------------
+logs
+*.log
+debug.log
+*.csv
+
+# -----------------------
+# OS/Editor
+# -----------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# -----------------------
+# Coverage / Test
+# -----------------------
+coverage/
+*.lcov
+
+# -----------------------
+# Firebase
+# -----------------------
+firebase-debug.log
+.firebase/
+.firebaserc
+
+# -----------------------
+# Docker
+# -----------------------
+**/Dockerfile
+**/docker-compose.yml
+**/.dockerignore
+
+# -----------------------
+# Prisma or Sequelize
+# -----------------------
+prisma/migrations/
+prisma/dev.db
+prisma/*.sqlite
+
+# -----------------------
+# Public Uploads or Temp
+# -----------------------
+public/uploads/
+tmp/
+temp/
+
+# -----------------------
+# Misc
+# -----------------------
+*.pem
+*.key
