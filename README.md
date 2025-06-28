@@ -6,6 +6,7 @@
 
 ## 📁 ディレクトリ構成
 
+```bash
 kakeiboapp/
 ├── backend/                       # バックエンド（Express + Prisma）
 │   ├── node_modules/
@@ -85,6 +86,7 @@ kakeiboapp/
 ├── .gitignore
 └── README
 
+```
 
 ---
 
@@ -116,7 +118,7 @@ kakeiboapp/
 ### 1. リポジトリをクローン
 
 ```bash
-git clone https://github.com/your-username/kakeiboapp.git
+git clone https://github.com/Ai-Togashi/kakeiboapp.git
 cd kakeiboapp
 ```
 
@@ -212,7 +214,7 @@ npm run format
 
 ##  作者
 
-**冨樫あい（[@your-github](https://github.com/your-github)）**  
+** GitHub: [冨樫あい](https://github.com/Ai-Togashi)）**  
 Webエンジニア志望 / フルスタック開発者  
 フロントエンド・バックエンド・インフラまで幅広く学習・実践中です。  
 お気軽にフォロー・コラボ・フィードバックください！
